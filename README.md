@@ -18,7 +18,7 @@ This is a real-time collaborative markdown editor built with React and Monaco Ed
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/collaborative-markdown-editor.git
+   git clone https://github.com/Hrsh-Venket/Col_Doc_Editor
    ```
 
 2. Navigate to the project directory:
